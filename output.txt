@@ -1,0 +1,296 @@
+Student: Andrii Yakovenko (M2 BDMA)
+Course: Decision Modelling (2020-2021)
+Assignment: Linear Programing and Preferences (Practical Work 2)
+
+AUTOMATICALLY GENERATED REPORT (generated on 2020-10-05 00:09)
+
+
+QUESTIONS AND ANSWERS:
+
+(Q.1) No preferences
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   CN: La Cathédrale Notre Dame de Paris
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    41.0 / 65 euros
+
+(Q.2a.1) Preference 1
+
+   Locations selected:
+
+   AT: L’Arc de Triomphe
+   AC: L’Avenue des Champs-Elysées
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TM: La Tour Montparnasse
+
+   Total amount:   5 / 13 locations
+   Total time:     8.5 / 12 hours
+   Total money:    42.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2a.2) Preference 2
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   CA: Les Catacombes
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+   TE: La Tour Eiffel
+
+   Total amount:   6 / 13 locations
+   Total time:     11.25 / 12 hours
+   Total money:    43.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2a.3) Preference 3
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   MO: Le Musée d’Orsay 
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    47.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2a.4) Preference 4
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CN: La Cathédrale Notre Dame de Paris
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+   TM: La Tour Montparnasse
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    46.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2a.5) Preference 5
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   CN: La Cathédrale Notre Dame de Paris
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    41.0 / 65 euros
+
+   This list is SIMILAR to list_visit_1
+
+(Q.2b) Preferences 1, 2
+
+   Locations selected:
+
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TE: La Tour Eiffel
+   TM: La Tour Montparnasse
+
+   Total amount:   4 / 13 locations
+   Total time:     10.5 / 12 hours
+   Total money:    48.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2c) Preferences 1, 3
+
+   Locations selected:
+
+   AT: L’Arc de Triomphe
+   AC: L’Avenue des Champs-Elysées
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TM: La Tour Montparnasse
+
+   Total amount:   5 / 13 locations
+   Total time:     8.5 / 12 hours
+   Total money:    42.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2d) Preferences 1, 4
+
+   Locations selected:
+
+   AT: L’Arc de Triomphe
+   AC: L’Avenue des Champs-Elysées
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TM: La Tour Montparnasse
+
+   Total amount:   5 / 13 locations
+   Total time:     8.5 / 12 hours
+   Total money:    42.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2e) Preferences 2, 5
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   CA: Les Catacombes
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+   TE: La Tour Eiffel
+
+   Total amount:   6 / 13 locations
+   Total time:     11.25 / 12 hours
+   Total money:    43.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2f) Preferences 3, 4
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+   TM: La Tour Montparnasse
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    51.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2g) Preferences 4, 5
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   BS: La Basilique du Sacré-Coeur
+   CN: La Cathédrale Notre Dame de Paris
+   PC: La Place de la Concorde
+   SC: La Sainte Chapelle
+   TM: La Tour Montparnasse
+
+   Total amount:   7 / 13 locations
+   Total time:     10.75 / 12 hours
+   Total money:    46.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2h) Preferences 1, 2, 4
+
+   Locations selected:
+
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TE: La Tour Eiffel
+   TM: La Tour Montparnasse
+
+   Total amount:   4 / 13 locations
+   Total time:     10.5 / 12 hours
+   Total money:    48.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2i) Preferences 2, 3, 5
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   CA: Les Catacombes
+   JT: Le Jardin des Tuileries 
+   PC: La Place de la Concorde
+   TE: La Tour Eiffel
+
+   Total amount:   6 / 13 locations
+   Total time:     11.25 / 12 hours
+   Total money:    35.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2j) Preferences 2, 3, 4, 5
+
+   Locations selected:
+
+   AC: L’Avenue des Champs-Elysées
+   AT: L’Arc de Triomphe
+   CA: Les Catacombes
+   PC: La Place de la Concorde
+   TE: La Tour Eiffel
+   TM: La Tour Montparnasse
+
+   Total amount:   6 / 13 locations
+   Total time:     11.75 / 12 hours
+   Total money:    50.0 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2k) Preferences 1, 2, 4, 5
+
+   Locations selected:
+
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TE: La Tour Eiffel
+   TM: La Tour Montparnasse
+
+   Total amount:   4 / 13 locations
+   Total time:     10.5 / 12 hours
+   Total money:    48.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.2l) Preferences 1, 2, 3, 4, 5
+
+   Locations selected:
+
+   BS: La Basilique du Sacré-Coeur
+   CA: Les Catacombes
+   TE: La Tour Eiffel
+   TM: La Tour Montparnasse
+
+   Total amount:   4 / 13 locations
+   Total time:     10.5 / 12 hours
+   Total money:    48.5 / 65 euros
+
+   This list is NOT SIMILAR to list_visit_1
+
+(Q.3) Kendall rank correlation coefficient (higher - more similar, or identical for a correlation of 1):
+
+   DURATION-RATE:    0.1515325460564539
+   DURATION-PRICE:   0.605587290764896
+   RATE-PRICE:      -0.08521145659838941
